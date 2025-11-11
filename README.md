@@ -4,8 +4,7 @@
 Email Me 👉 ✉️ **devangsingh621@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Bank Management System
-- 🌱 **I’m currently learning:** DSA and Backend
-<!--   - 👯 **I’m looking to collaborate on:** Enter your project name and info    -->
+- 🌱 **I’m currently learning:** DSA and Backend         <!--   - 👯 **I’m looking to collaborate on:** Enter your project name and info    -->
 - 🤔 **I’m looking for help with:** Bank Management System
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** devangsingh621@gmail.com
