@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **devangsingh621@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Bank Management System
+- 🌱 **I’m currently learning:** DSA and Backend
+<!--   - 👯 **I’m looking to collaborate on:** Enter your project name and info    -->
+- 🤔 **I’m looking for help with:** Bank Management System
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** devangsingh621@gmail.com
 - 😄 **Pronouns:** He/Him
 
 ## 🏆 GitHub Trophies
